@@ -1,0 +1,6 @@
+# Google AI API Key for Gemini 2.5 Pro
+GOOGLE_API_KEY=your_google_api_key_here
+
+# Optional: Other configuration
+LANGCHAIN_TRACING_V2=true
+LANGCHAIN_API_KEY=your_langchain_api_key_here

@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "timestamp": "2025-09-22T21:31:59.915359",
+    "companies_analyzed": 3,
+    "total_topics": 15
+  },
+  "summary_metrics": {
+    "companies_analyzed": 3,
+    "topics_identified": 15,
+    "gap_opportunities": 10,
+    "coverage_percentage": 0.0
+  },
+  "topic_distribution": {
+    "ergosign_percentage": 33,
+    "competitor_percentage": 67
+  },
+  "topics_by_company": {
+    "accenture.com": 5,
+    "cobeisfresh.com": 5,
+    "ergosign.de": 5
+  },
+  "gap_analysis": {
+    "high_priority": [
+      "Design Systems",
+      "Automated Testing",
+      "Mobile Development"
+    ],
+    "medium_priority": [
+      "Diamond Traceability",
+      "UX/UI Design",
+      "Shared Services",
+      "Generative AI"
+    ],
+    "total_gaps": 10
+  },
+  "detailed_data": {
+    "ergosign_topics": [
+      "Autonomous Mobility",
+      "Digital Accessibility",
+      "Healthcare Machine Learning",
+      "Headless CMS",
+      "UX Design"
+    ],
+    "competitor_topics": [
+      "Design Systems",
+      "Automated Testing",
+      "Diamond Traceability",
+      "UX/UI Design",
+      "Shared Services",
+      "Generative AI",
+      "Customer Experience",
+      "Web Accessibility",
+      "Mobile Development",
+      "Payment Systems"
+    ],
+    "coverage_topics": [],
+    "gap_topics": [
+      "Design Systems",
+      "Automated Testing",
+      "Mobile Development",
+      "Diamond Traceability",
+      "UX/UI Design",
+      "Shared Services",
+      "Generative AI",
+      "Customer Experience",
+      "Web Accessibility",
+      "Payment Systems"
+    ],
+    "company_topics": {
+      "accenture.com": [
+        "Payment Systems",
+        "Shared Services",
+        "Customer Experience",
+        "Diamond Traceability",
+        "Generative AI"
+      ],
+      "cobeisfresh.com": [
+        "UX/UI Design",
+        "Mobile Development",
+        "Automated Testing",
+        "Design Systems",
+        "Web Accessibility"
+      ],
+      "ergosign.de": [
+        "UX Design",
+        "Digital Accessibility",
+        "Autonomous Mobility",
+        "Healthcare Machine Learning",
+        "Headless CMS"
+      ]
+    }
+  }
+}

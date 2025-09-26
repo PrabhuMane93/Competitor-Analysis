@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "timestamp": "2025-09-24T00:20:12.065449",
+    "companies_analyzed": 7,
+    "total_topics": 35
+  },
+  "summary_metrics": {
+    "companies_analyzed": 7,
+    "topics_identified": 35,
+    "gap_opportunities": 35,
+    "coverage_percentage": 0.0
+  },
+  "topic_distribution": {
+    "ergosign_percentage": 0,
+    "competitor_percentage": 100
+  },
+  "topics_by_company": {
+    "frog": 5,
+    "cobe": 5,
+    "designit": 5,
+    "diva": 5,
+    "ginetta": 5,
+    "phoenix design": 5,
+    "centigrade": 5
+  },
+  "gap_analysis": {
+    "high_priority": [
+      "Transparent Communication",
+      "Yoyo Design Innovation",
+      "Social Commerce Strategy"
+    ],
+    "medium_priority": [
+      "Design-Led Business",
+      "Writing Design Ideas",
+      "Client Relationship Building",
+      "Digital Transformation Guide"
+    ],
+    "total_gaps": 35
+  },
+  "detailed_data": {
+    "ergosign_topics": [],
+    "competitor_topics": [
+      "Transparent Communication",
+      "Yoyo Design Innovation",
+      "Social Commerce Strategy",
+      "Design-Led Business",
+      "Writing Design Ideas",
+      "Client Relationship Building",
+      "Digital Transformation Guide",
+      "Conversational AI UX",
+      "Showering Experience Design",
+      "Brand-Driven Design",
+      "Software Modernization AI",
+      "Creative Excellence",
+      "Anthropomorphism in AI",
+      "Experiential Learning Design",
+      "Experience Innovation",
+      "Publication Submissions Inbox",
+      "AI-Powered Mentors",
+      "Managing Writer Submissions",
+      "Manufacturing Skills Crisis",
+      "AI Communication Style",
+      "Innovative Customer Retention",
+      "Immersive Learning Environments",
+      "Gamified Onboarding",
+      "UXi Method",
+      "Designer Portfolio Building",
+      "Service Design Innovation",
+      "Sustainable Bathroom Design",
+      "Design Publication on Medium",
+      "Integrated Digital Services",
+      "Strategic Business Initiatives",
+      "Pragmatic Quality AI",
+      "E-Commerce Revolution",
+      "Composable Loyalty Programs",
+      "Design System Consistency",
+      "Transparent OLED TV"
+    ],
+    "coverage_topics": [],
+    "gap_topics": [
+      "Transparent Communication",
+      "Yoyo Design Innovation",
+      "Social Commerce Strategy",
+      "Design-Led Business",
+      "Writing Design Ideas",
+      "Client Relationship Building",
+      "Digital Transformation Guide",
+      "Conversational AI UX",
+      "Showering Experience Design",
+      "Brand-Driven Design",
+      "Software Modernization AI",
+      "Creative Excellence",
+      "Anthropomorphism in AI",
+      "Experiential Learning Design",
+      "Experience Innovation",
+      "Publication Submissions Inbox",
+      "AI-Powered Mentors",
+      "Managing Writer Submissions",
+      "Manufacturing Skills Crisis",
+      "AI Communication Style",
+      "Innovative Customer Retention",
+      "Immersive Learning Environments",
+      "Gamified Onboarding",
+      "UXi Method",
+      "Designer Portfolio Building",
+      "Service Design Innovation",
+      "Sustainable Bathroom Design",
+      "Design Publication on Medium",
+      "Integrated Digital Services",
+      "Strategic Business Initiatives",
+      "Pragmatic Quality AI",
+      "E-Commerce Revolution",
+      "Composable Loyalty Programs",
+      "Design System Consistency",
+      "Transparent OLED TV"
+    ],
+    "company_topics": {
+      "frog": [
+        "AI-Powered Mentors",
+        "Experiential Learning Design",
+        "Manufacturing Skills Crisis",
+        "Immersive Learning Environments",
+        "Gamified Onboarding"
+      ],
+      "cobe": [
+        "Design System Consistency",
+        "UXi Method",
+        "Brand-Driven Design",
+        "Client Relationship Building",
+        "Transparent Communication"
+      ],
+      "designit": [
+        "Experience Innovation",
+        "Design-Led Business",
+        "Creative Excellence",
+        "Strategic Business Initiatives",
+        "Integrated Digital Services"
+      ],
+      "diva": [
+        "Composable Loyalty Programs",
+        "Social Commerce Strategy",
+        "Digital Transformation Guide",
+        "Innovative Customer Retention",
+        "E-Commerce Revolution"
+      ],
+      "ginetta": [
+        "Publication Submissions Inbox",
+        "Design Publication on Medium",
+        "Managing Writer Submissions",
+        "Designer Portfolio Building",
+        "Writing Design Ideas"
+      ],
+      "phoenix design": [
+        "Showering Experience Design",
+        "Transparent OLED TV",
+        "Yoyo Design Innovation",
+        "Sustainable Bathroom Design",
+        "Service Design Innovation"
+      ],
+      "centigrade": [
+        "Software Modernization AI",
+        "Conversational AI UX",
+        "Anthropomorphism in AI",
+        "AI Communication Style",
+        "Pragmatic Quality AI"
+      ]
+    }
+  }
+}

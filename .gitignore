@@ -1,0 +1,60 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+.env
+.venv/
+venv/
+.envrc
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb~
+
+# Node.js
+node_modules/
+dist/
+build/
+coverage/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+target/
+out/
+
+# IDEs/editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env.local
+.env.*.local
+
+# Cache
+.cache/
+*.bak
+*.tmp
+
+# Other
+*.sqlite3
+*.db

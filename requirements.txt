@@ -1,0 +1,12 @@
+faiss-cpu==1.9.0
+browser-use>=0.7.0
+pymilvus
+huggingface_hub
+langchain>=0.1.0
+langchain-google-genai>=1.0.1
+google-generativeai>=0.4.1,<0.5.0
+python-dotenv>=1.0.0
+streamlit>=1.29.0
+pandas>=2.1.0
+numpy>=1.24.0
+plotly>=5.0.0

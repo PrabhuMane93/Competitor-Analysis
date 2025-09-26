@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "timestamp": "2025-09-24T00:27:53.841039",
+    "companies_analyzed": 7,
+    "total_topics": 66
+  },
+  "summary_metrics": {
+    "companies_analyzed": 7,
+    "topics_identified": 66,
+    "gap_opportunities": 35,
+    "coverage_percentage": 0.0
+  },
+  "topic_distribution": {
+    "ergosign_percentage": 47,
+    "competitor_percentage": 53
+  },
+  "topics_by_company": {
+    "frog": 5,
+    "cobe": 5,
+    "designit": 5,
+    "diva": 5,
+    "ginetta": 5,
+    "phoenix design": 5,
+    "centigrade": 5
+  },
+  "gap_analysis": {
+    "high_priority": [
+      "Anthropomorphic Cues",
+      "Brand Digital Translation",
+      "Publication Submissions"
+    ],
+    "medium_priority": [
+      "Integrated Digital Services",
+      "Conversational AI UX",
+      "Managing Writers",
+      "AI-Powered Mentors"
+    ],
+    "total_gaps": 35
+  },
+  "detailed_data": {
+    "ergosign_topics": [
+      "H",
+      "A",
+      "d",
+      "R",
+      "t",
+      "c",
+      "u",
+      "s",
+      "m",
+      "T",
+      "l",
+      "S",
+      "h",
+      "D",
+      "r",
+      "v",
+      "X",
+      "i",
+      "b",
+      " ",
+      "a",
+      "C",
+      "y",
+      "I",
+      "U",
+      "e",
+      "g",
+      "o",
+      "L",
+      "M",
+      "n"
+    ],
+    "competitor_topics": [
+      "Anthropomorphic Cues",
+      "Brand Digital Translation",
+      "Publication Submissions",
+      "Integrated Digital Services",
+      "Conversational AI UX",
+      "Managing Writers",
+      "AI-Powered Mentors",
+      "Strategic Business Initiatives",
+      "Gamified Onboarding",
+      "Service Design Innovation",
+      "Publishing Design Ideas",
+      "Creative Pragmatism",
+      "Submission Guidelines",
+      "Design-Led Business",
+      "Pragmatic Quality",
+      "Yoyo Design Challenge",
+      "Digital Transformation Guide",
+      "Social Commerce Strategy",
+      "Experiential Learning Design",
+      "Design System Consistency",
+      "Showering Experience Design",
+      "Transparent OLED TV",
+      "Composable Loyalty Programs",
+      "Transparent Communication",
+      "Sustainable Bathroom Design",
+      "Long-Term Partnerships",
+      "UXi Method",
+      "Experience Innovation",
+      "Immersive Learning Environments",
+      "B2B2C Loyalty",
+      "Innovative Loyalty Initiatives",
+      "Design Publication",
+      "AI-Driven Modernization",
+      "Manufacturing Skills Crisis",
+      "AI Communication Style"
+    ],
+    "coverage_topics": [],
+    "gap_topics": [
+      "Anthropomorphic Cues",
+      "Brand Digital Translation",
+      "Publication Submissions",
+      "Integrated Digital Services",
+      "Conversational AI UX",
+      "Managing Writers",
+      "AI-Powered Mentors",
+      "Strategic Business Initiatives",
+      "Gamified Onboarding",
+      "Service Design Innovation",
+      "Publishing Design Ideas",
+      "Creative Pragmatism",
+      "Submission Guidelines",
+      "Design-Led Business",
+      "Pragmatic Quality",
+      "Yoyo Design Challenge",
+      "Digital Transformation Guide",
+      "Social Commerce Strategy",
+      "Experiential Learning Design",
+      "Design System Consistency",
+      "Showering Experience Design",
+      "Transparent OLED TV",
+      "Composable Loyalty Programs",
+      "Transparent Communication",
+      "Sustainable Bathroom Design",
+      "Long-Term Partnerships",
+      "UXi Method",
+      "Experience Innovation",
+      "Immersive Learning Environments",
+      "B2B2C Loyalty",
+      "Innovative Loyalty Initiatives",
+      "Design Publication",
+      "AI-Driven Modernization",
+      "Manufacturing Skills Crisis",
+      "AI Communication Style"
+    ],
+    "company_topics": {
+      "frog": [
+        "AI-Powered Mentors",
+        "Experiential Learning Design",
+        "Manufacturing Skills Crisis",
+        "Immersive Learning Environments",
+        "Gamified Onboarding"
+      ],
+      "cobe": [
+        "Design System Consistency",
+        "UXi Method",
+        "Brand Digital Translation",
+        "Long-Term Partnerships",
+        "Transparent Communication"
+      ],
+      "designit": [
+        "Experience Innovation",
+        "Design-Led Business",
+        "Creative Pragmatism",
+        "Strategic Business Initiatives",
+        "Integrated Digital Services"
+      ],
+      "diva": [
+        "Composable Loyalty Programs",
+        "Social Commerce Strategy",
+        "Digital Transformation Guide",
+        "Innovative Loyalty Initiatives",
+        "B2B2C Loyalty"
+      ],
+      "ginetta": [
+        "Publication Submissions",
+        "Managing Writers",
+        "Submission Guidelines",
+        "Design Publication",
+        "Publishing Design Ideas"
+      ],
+      "phoenix design": [
+        "Showering Experience Design",
+        "Transparent OLED TV",
+        "Yoyo Design Challenge",
+        "Service Design Innovation",
+        "Sustainable Bathroom Design"
+      ],
+      "centigrade": [
+        "AI-Driven Modernization",
+        "Conversational AI UX",
+        "Anthropomorphic Cues",
+        "AI Communication Style",
+        "Pragmatic Quality"
+      ]
+    }
+  }
+}

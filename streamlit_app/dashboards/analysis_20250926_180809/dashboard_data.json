@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "timestamp": "2025-09-26T18:08:28.530763",
+    "companies_analyzed": 7,
+    "total_topics": 64
+  },
+  "summary_metrics": {
+    "companies_analyzed": 7,
+    "topics_identified": 64,
+    "gap_opportunities": 35,
+    "coverage_percentage": 0.0
+  },
+  "topic_distribution": {
+    "ergosign_percentage": 45,
+    "competitor_percentage": 55
+  },
+  "topics_by_company": {
+    "frog": 5,
+    "cobe": 5,
+    "designit": 5,
+    "diva": 5,
+    "ginetta": 5,
+    "phoenix design": 5,
+    "centigrade": 5
+  },
+  "gap_analysis": {
+    "high_priority": [
+      "Transparent Communication",
+      "Publication Submissions Flow",
+      "Design System Consistency"
+    ],
+    "medium_priority": [
+      "Strategic Business Initiatives",
+      "Experiential Learning Design",
+      "UXi Method",
+      "Anthropomorphic AI Design"
+    ],
+    "total_gaps": 35
+  },
+  "detailed_data": {
+    "ergosign_topics": [
+      "A",
+      "d",
+      "y",
+      "m",
+      "U",
+      "u",
+      "I",
+      "L",
+      " ",
+      "c",
+      "v",
+      "r",
+      "l",
+      "C",
+      "h",
+      "H",
+      "X",
+      "a",
+      "o",
+      "n",
+      "e",
+      "M",
+      "S",
+      "t",
+      "s",
+      "b",
+      "i",
+      "D",
+      "g"
+    ],
+    "competitor_topics": [
+      "Transparent Communication",
+      "Publication Submissions Flow",
+      "Design System Consistency",
+      "Strategic Business Initiatives",
+      "Experiential Learning Design",
+      "UXi Method",
+      "Anthropomorphic AI Design",
+      "AI-Driven Modernization",
+      "Design-Led Innovation",
+      "Experience Innovation Company",
+      "Medium Platform Writing",
+      "Digital Transformation Guide",
+      "Showering Experience Design",
+      "Managing Design Publications",
+      "Creative Pragmatism",
+      "Yoyo Design Innovation",
+      "Gamified Onboarding",
+      "AI-Powered Mentors",
+      "Social Commerce Strategy",
+      "Pragmatic Quality AI",
+      "Experience Advisory Practice",
+      "Innovative Loyalty Initiatives",
+      "Service Design Innovation",
+      "Manufacturing Skills Crisis",
+      "Sustainable Bathroom Design",
+      "KI-gest\u00fctzte CX",
+      "Long-Term Partnerships",
+      "Conversational AI UX",
+      "Composable Loyalty Programs",
+      "AI Communication Style",
+      "Immersive Learning Environments",
+      "Transparent OLED TV",
+      "Designer Portfolio Building",
+      "Design Idea Publishing",
+      "Brand-Driven Design"
+    ],
+    "coverage_topics": [],
+    "gap_topics": [
+      "Transparent Communication",
+      "Publication Submissions Flow",
+      "Design System Consistency",
+      "Strategic Business Initiatives",
+      "Experiential Learning Design",
+      "UXi Method",
+      "Anthropomorphic AI Design",
+      "AI-Driven Modernization",
+      "Design-Led Innovation",
+      "Experience Innovation Company",
+      "Medium Platform Writing",
+      "Digital Transformation Guide",
+      "Showering Experience Design",
+      "Managing Design Publications",
+      "Creative Pragmatism",
+      "Yoyo Design Innovation",
+      "Gamified Onboarding",
+      "AI-Powered Mentors",
+      "Social Commerce Strategy",
+      "Pragmatic Quality AI",
+      "Experience Advisory Practice",
+      "Innovative Loyalty Initiatives",
+      "Service Design Innovation",
+      "Manufacturing Skills Crisis",
+      "Sustainable Bathroom Design",
+      "KI-gest\u00fctzte CX",
+      "Long-Term Partnerships",
+      "Conversational AI UX",
+      "Composable Loyalty Programs",
+      "AI Communication Style",
+      "Immersive Learning Environments",
+      "Transparent OLED TV",
+      "Designer Portfolio Building",
+      "Design Idea Publishing",
+      "Brand-Driven Design"
+    ],
+    "company_topics": {
+      "frog": [
+        "AI-Powered Mentors",
+        "Experiential Learning Design",
+        "Manufacturing Skills Crisis",
+        "Immersive Learning Environments",
+        "Gamified Onboarding"
+      ],
+      "cobe": [
+        "Design System Consistency",
+        "UXi Method",
+        "Brand-Driven Design",
+        "Long-Term Partnerships",
+        "Transparent Communication"
+      ],
+      "designit": [
+        "Experience Innovation Company",
+        "Design-Led Innovation",
+        "Creative Pragmatism",
+        "Strategic Business Initiatives",
+        "Experience Advisory Practice"
+      ],
+      "diva": [
+        "Composable Loyalty Programs",
+        "Social Commerce Strategy",
+        "Digital Transformation Guide",
+        "Innovative Loyalty Initiatives",
+        "KI-gest\u00fctzte CX"
+      ],
+      "ginetta": [
+        "Publication Submissions Flow",
+        "Managing Design Publications",
+        "Designer Portfolio Building",
+        "Medium Platform Writing",
+        "Design Idea Publishing"
+      ],
+      "phoenix design": [
+        "Showering Experience Design",
+        "Transparent OLED TV",
+        "Yoyo Design Innovation",
+        "Service Design Innovation",
+        "Sustainable Bathroom Design"
+      ],
+      "centigrade": [
+        "AI-Driven Modernization",
+        "Conversational AI UX",
+        "Anthropomorphic AI Design",
+        "AI Communication Style",
+        "Pragmatic Quality AI"
+      ]
+    }
+  }
+}

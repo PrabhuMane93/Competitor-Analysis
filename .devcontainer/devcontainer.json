@@ -1,0 +1,11 @@
+{
+	"name": "Ergosign-project",
+	"build": {
+		"dockerfile": "Dockerfile",
+		"context": "."
+	},
+	"hostRequirements": {
+		"gpu": "optional"
+	},
+	"remoteUser": "root"
+}

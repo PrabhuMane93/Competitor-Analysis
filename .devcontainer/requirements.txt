@@ -1,0 +1,6 @@
+faiss-cpu==1.9.0
+browser-use>=0.7.0
+pymilvus
+huggingface_hub
+python-dotenv
+apache-airflow
