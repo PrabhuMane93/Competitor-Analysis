@@ -1,6 +1,6 @@
 # Competitor-Analysis
 ## Introduction
-
+### [Find the video attached to the project here](https://drive.google.com/file/d/1o1KLNv2aq-tSNvrX7nmYDfeUQreoyhpH/view?usp=sharing)
 This project delivers an **end-to-end competitive intelligence and analytics platform** that automates the discovery, processing, and visualization of competitor activity across multiple digital channels. By combining modern LLMs, vector databases, and autonomous browsing agents, the system enables real-time benchmarking, entity discovery, and strategic content analysis.
 
 ## Overview
