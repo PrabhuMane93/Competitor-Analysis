@@ -79,5 +79,5 @@ If not, follow these steps:
 ```bash
 cd streamlit_app
 ```
-### Next, proceed with the steps outlined in the enclosing README.
+### Next, proceed with the steps outlined in the enclosing README in streamlit_app folder.
 
